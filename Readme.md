@@ -10,6 +10,7 @@
 2. 安卓5.0或更高版本
 3. 需要开启无障碍服务
 
+![app预览](https://raw.githubusercontent.com/Power-kxLee/Autojs-Flash-Auto-Reply/master/img/preview.png)
 
 
 
